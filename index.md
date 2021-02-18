@@ -3,7 +3,7 @@
 ### Flux
 
 Flux is a special client for hypixel.Easy-to-bypass watchdog for hacking Hypixel xD
-<img src="正太se.jpg" width="200" height="300" /> 
+<img src="正太se.jpg" width="220" height="300" /> 
 
 For more details see [Flux website](https://flux.today).
 
