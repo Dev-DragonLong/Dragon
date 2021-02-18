@@ -1,5 +1,5 @@
 ## Welcome to Dragon Pages
-
+<link rel="shortcut icon" href="favicon.ico" type="image/favicon.ico">
 ### Flux
 
 Flux is a special client for hypixel.Easy-to-bypass watchdog for hacking Hypixel xD
