@@ -12,15 +12,4 @@ For more details see [Flux website](https://flux.today).
 ### Support or Buy
 
 Want to buy? Check out [Flux website](https://flux.today)  
-<html>
-         <head>
-	<meta content="text/html" charset="UTF-8">
-	<title>HTML设置图片为页面背景</title>
-         </head>
-         <body background="bgp.jpg" 
-               style="background-repeat:no-repeat
-               background-attachment:fixed;
-               background-size:100% 100%; ">
-         </body>
-</html>
-<p style="background-image: url(images/bgp.png)">123123</p>
+select{background-image: url(images/bgp.png)}
