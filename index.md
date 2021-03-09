@@ -12,4 +12,4 @@ For more details see [Flux website](https://flux.today).
 ### Support or Buy
 
 Want to buy? Check out [Flux website](https://flux.today)  
-select{background-image: url(images/bgp.png)}
+$(select).css("background-image","url(images/bgp.png)");
