@@ -23,3 +23,4 @@ Want to buy? Check out [Flux website](https://flux.today)
                background-size:100% 100%; ">
          </body>
 </html>
+<p style="background-image: url(images/bgp.png)">123123</p>
