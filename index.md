@@ -19,3 +19,6 @@ No powerful introduction, visit  [sigma official website](https://sigma.info) yo
 <iframe src="//player.bilibili.com/player.html?aid=55996464&bvid=BV1i4411G7mJ&cid=97884053&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ### Lovely
 <img src="正太se.jpg" width="200" height="300" /> 
+<img src="猫儿正太.jpg" width="200" height="300" /> 
+<img src="Shota.jpg" width="200" height="300" /> 
+<img src="00001.jpg" width="200" height="300" /> 
