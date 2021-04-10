@@ -1,4 +1,4 @@
-<link rel="icon" href="favion.ico" >
+<link rel="icon" href="favicon.ico" >
 ## Welcome to Dragon Pages
 <link rel="shortcut icon" href="favicon.ico" type="favicon.ico">
 <link rel="icon" href="favicon.ico" type="image/favicon.ico"/>
