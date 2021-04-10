@@ -1,3 +1,8 @@
+<link rel="icon" href="favion.ico" >
+<title>标题</title>
+<script>
+    document.title = 'Dragon'
+</script>
 ## Welcome to Dragon Pages
 <link rel="shortcut icon" href="favicon.ico" type="favicon.ico">
 <link rel="icon" href="favicon.ico" type="image/favicon.ico"/>
