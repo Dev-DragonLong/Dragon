@@ -6,7 +6,7 @@
 这里有Dragon百年学术笔记
 This page is free.
 I don't know why.
-####Hax!!!
+#### Hax!!!
 ### Flux
 
 Flux is a special client for hypixel.Easy-to-bypass watchdog for hacking Hypixel xD
@@ -28,5 +28,5 @@ No powerful introduction, visit  [sigma official website](https://sigmaclient.in
 <img src="猫儿正太.jpg" width="230" height="300" /> 
 <img src="Shota.jpg" width="230" height="300" /> 
 <img src="00001.jpg" width="230" height="300" /> 
-###My husband!!!
+### My husband!!!
 <img src="213344.jpg" width="450" height="600" /> 
